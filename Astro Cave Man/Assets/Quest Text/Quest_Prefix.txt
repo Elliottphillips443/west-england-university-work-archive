@@ -1,0 +1,11 @@
+Paint the battlefield with blood :combat:faith:4:-2:5:7;
+
+Capture and sacrafice a villager from another settlement :capture_kill:faith:3:-1:1:7;
+
+Capture and convert a villager from another settlement :capture_convert:faith:3:-1:1:7;
+
+Increase village population :population:faith:1:0:4:7;
+
+Increase food reserves :harvest_food:food:5:-2:10:7;
+
+Mine stone :harvest_stone:stone:5:-2:10:7;
