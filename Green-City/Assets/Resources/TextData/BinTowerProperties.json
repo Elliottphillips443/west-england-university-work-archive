@@ -1,0 +1,25 @@
+{
+  "propertiesList": [
+    {
+      "range": 8.0,
+      "rateOfFire": 5.0,
+      "cost": 10,
+      "forNextUpgrade": 5,
+      "spriteName": "Sprites/Towers/bin"
+    },
+    {
+      "range": 12.0,
+      "rateOfFire": 8.0,
+      "cost": 20,
+      "forNextUpgrade": 10,
+      "spriteName": "Sprites/Towers/Bugger bin"
+    },
+	{
+      "range": 16.0,
+      "rateOfFire": 5.0,
+      "cost": 40,
+      "forNextUpgrade": 30,
+      "spriteName": "Sprites/Towers/BiggestBin"
+    }
+  ]
+}
