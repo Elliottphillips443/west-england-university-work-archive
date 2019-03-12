@@ -1,0 +1,4 @@
+Title: Silkscreen
+Description: 8-bit style type font
+Creator Details: Made by Jason Kottke, see Silkscreen readme file for licensing
+https://www.dafont.com/silkscreen.font
