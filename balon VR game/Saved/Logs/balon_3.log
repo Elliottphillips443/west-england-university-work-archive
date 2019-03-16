@@ -1,0 +1,140 @@
+﻿Log file open, 10/24/16 16:34:19
+LogInit:Display: Running engine for game: balon
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1721969898) SRandInit(1721969902).
+LogTaskGraph: Started task graph with 4 named threads and 7 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 31.808861
+LogConfig:Warning: Failed to saved backup for config[Game]
+LogConfig:Warning: Failed to saved backup for config[Editor]
+LogConfig:Warning: Failed to saved backup for config[EditorPerProjectUserSettings]
+LogConfig:Warning: Failed to saved backup for config[EditorSettings]
+LogConfig:Warning: Failed to saved backup for config[EditorLayout]
+LogConfig:Warning: Failed to saved backup for config[Scalability]
+LogConfig:Warning: Failed to saved backup for config[Hardware]
+LogConfig:Warning: Failed to saved backup for config[GameUserSettings]
+LogInit: Version: 4.12.5-3039270+++UE4+Release-4.12
+LogInit: API Version: 2992821
+LogInit: Net Version: 3039270
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 3
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 2
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 6
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 2
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jul  6 2016 09:09:46
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.12
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Using libcurl 7.41.0
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.10.24-15.34.37:291][  0]LogInit: Selected Device Profile: [Windows]
+[2016.10.24-15.34.37:291][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.10.24-15.34.37:360][  0]LogConfig:Warning: Failed to saved backup for config[DeviceProfiles]
+[2016.10.24-15.34.37:478][  0]LogInit: Computer: MARTHA-PC
+[2016.10.24-15.34.37:480][  0]LogInit: User: Martha
+[2016.10.24-15.34.37:480][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.10.24-15.34.37:480][  0]LogInit: High frequency timer resolution =4.232988 MHz
+[2016.10.24-15.34.37:480][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2016.10.24-15.34.37:480][  0]LogMemory: Platform Memory Stats for Windows
+[2016.10.24-15.34.37:480][  0]LogMemory: Process Physical Memory: 191.28 MB used, 191.28 MB peak
+[2016.10.24-15.34.37:480][  0]LogMemory: Process Virtual Memory: 196.95 MB used, 196.95 MB peak
+[2016.10.24-15.34.37:480][  0]LogMemory: Physical Memory: 5176.57 MB used, 24475.36 MB total
+[2016.10.24-15.34.37:480][  0]LogMemory: Virtual Memory: 519.29 MB used, 8388608.00 MB total
+[2016.10.24-15.34.42:606][  0]LogTextLocalizationManager: No specific translations for ('en-GB') exist, so ('en') translations will be used.
+[2016.10.24-15.34.49:135][  0]LogD3D11RHI: D3D11 adapters:
+[2016.10.24-15.34.49:188][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2016.10.24-15.34.49:188][  0]LogD3D11RHI:       1969/0/11981 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.10.24-15.34.49:262][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2016.10.24-15.34.49:262][  0]LogD3D11RHI:       1969/0/11981 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.10.24-15.34.49:262][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.10.24-15.34.49:305][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.10.24-15.34.49:305][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2016.10.24-15.34.49:305][  0]LogWindows: EnumDisplayDevices:
+[2016.10.24-15.34.49:306][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2016.10.24-15.34.49:330][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2016.10.24-15.34.49:330][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2016.10.24-15.34.49:331][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2016.10.24-15.34.49:331][  0]LogWindows:    4. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2016.10.24-15.34.49:332][  0]LogWindows:    5. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2016.10.24-15.34.49:332][  0]LogWindows:    6. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2016.10.24-15.34.49:333][  0]LogWindows:    7. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2016.10.24-15.34.49:333][  0]LogWindows:    8. 'RDPDD Chained DD' (P:0 D:0)
+[2016.10.24-15.34.49:333][  0]LogWindows:    9. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2016.10.24-15.34.49:334][  0]LogWindows:    10. 'RDP Reflector Display Driver' (P:0 D:0)
+[2016.10.24-15.34.49:334][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:8 
+[2016.10.24-15.34.49:334][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2016.10.24-15.34.49:334][  0]LogD3D11RHI:   Driver Version: 372.70 (internal:21.21.13.7270, unified:372.70)
+[2016.10.24-15.34.49:334][  0]LogD3D11RHI:      Driver Date: 8-25-2016
+[2016.10.24-15.34.49:334][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.10.24-15.34.49:353][  0]LogD3D11RHI: Async texture creation enabled
+[2016.10.24-15.34.51:443][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2016.10.24-15.34.51:903][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/Martha/Desktop/COME ON PHIL !!!/balon/Intermediate/Shaders/WorkingDirectory/9920/).
+[2016.10.24-15.34.51:903][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Martha/AppData/Local/Temp/UnrealShaderWorkingDir/216FBE934D0293B7A6437EBEAD14377A/'.
+[2016.10.24-15.34.51:959][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.10.24-15.35.06:123][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.10.24-15.35.06:136][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.10.24-15.35.06:150][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.10.24-15.35.06:163][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.10.24-15.35.06:174][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.10.24-15.35.06:186][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.10.24-15.35.06:308][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.10.24-15.35.06:424][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.10.24-15.35.06:495][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.10.24-15.35.06:537][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.10.24-15.35.06:619][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.10.24-15.35.06:801][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.10.24-15.35.06:801][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.10.24-15.35.06:873][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.10.24-15.35.07:310][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.10.24-15.35.07:376][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.10.24-15.35.07:412][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.10.24-15.35.07:454][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.10.24-15.35.07:520][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.10.24-15.35.07:520][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.10.24-15.35.09:826][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.10.24-15.35.10:426][  0]LogDerivedDataCache: Loaded boot cache 0.58s 48MB C:/Users/Martha/AppData/Local/UnrealEngine/4.12/DerivedDataCache/Boot.ddc.
+[2016.10.24-15.35.10:427][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Martha/AppData/Local/UnrealEngine/4.12/DerivedDataCache/Boot.ddc
+[2016.10.24-15.35.10:427][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Martha/Desktop/COME ON PHIL !!!/balon/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.10.24-15.35.10:427][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.10.24-15.35.10:427][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Martha/Desktop/COME ON PHIL !!!/balon/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.10.24-15.35.10:427][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.10.24-15.35.10:543][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.10.24-15.35.10:617][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Martha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.10.24-15.35.22:117][  0]LogInit: Selected Device Profile: [Windows]
+[2016.10.24-15.35.22:375][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.10.24-15.35.24:499][  0]LogConfig:Warning: Failed to saved backup for config[TemplateDefs]
+[2016.10.24-15.35.24:732][  0]LogConfig:Warning: Failed to saved backup for config[GameplayTags]
+[2016.10.24-15.35.26:818][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.10.24-15.35.26:818][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.10.24-15.35.26:818][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.10.24-15.35.33:416][  0]LogAssetRegistry: FAssetRegistry took 0.0228 seconds to start up
+[2016.10.24-15.35.33:661][  0]LogAssetRegistry:Error: Failed to open file for write ../../../../../../Users/Martha/Desktop/COME ON PHIL !!!/balon/Intermediate/AssetRegistryCache/2657c409.bin
+[2016.10.24-15.35.33:664][  0]LogFileManager:Warning: DeleteFile was unable to delete '../../../../../../Users/Martha/Desktop/COME ON PHIL !!!/balon/Intermediate/AssetRegistryCache/aff1c699.bin', retrying in .5s...
+[2016.10.24-15.35.34:164][  0]LogFileManager:Warning: DeleteFile recovered during retry!
+[2016.10.24-15.35.34:164][  0]LogFileManager:Warning: MoveFile was unable to move '../../../../../../Users/Martha/Desktop/COME ON PHIL !!!/balon/Intermediate/AssetRegistryCache/aff1c699.bin.tmp' to '../../../../../../Users/Martha/Desktop/COME ON PHIL !!!/balon/Intermediate/AssetRegistryCache/aff1c699.bin', retrying in .5s...
+[2016.10.24-15.35.34:664][  0]LogFileManager:Warni
